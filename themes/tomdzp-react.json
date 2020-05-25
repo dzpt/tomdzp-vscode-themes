@@ -15,7 +15,7 @@
 		"breadcrumbPicker.background": "#191a21",
 		"button.background": "#44475a",
 		"button.foreground": "#f8f8f2",
-		"contrastBorder": "#1e2127",
+		"contrastBorder": "#1e212700",
 		"debugToolBar.background": "#282c34",
 		"diffEditor.insertedTextBackground": "#50fa7b20",
 		"diffEditor.removedTextBackground": "#ff555550",
