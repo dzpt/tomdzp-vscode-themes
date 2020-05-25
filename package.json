@@ -1,0 +1,46 @@
+{
+    "name": "TomDzp Themes",
+    "displayName": "TomDzp Themes",
+    "description": "TomDzp themes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TomDzp - Ayu",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tomdzp-ayu.json"
+            },
+            {
+                "label": "TomDzp - Default",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tomdzp-default.json"
+            },
+            {
+                "label": "TomDzp - Dracula",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tomdzp-dracula.json"
+            },
+            {
+                "label": "TomDzp - Cameo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tomdzp-cameo.json"
+            },
+            {
+                "label": "TomDzp - React",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tomdzp-react.json"
+            },
+            {
+                "label": "TomDzp - Atom One Light",
+                "uiTheme": "vs",
+                "path": "./themes/tomdzp-atom-one-light.json"
+            }
+        ]
+    }
+}
