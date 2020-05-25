@@ -2,6 +2,8 @@
 	"name": "TomDzp - Dracula",
 	"type": "dark",
 	"colors": {
+		"sideBar.border": "#191a21",
+		"statusBar.border": "#191a21",
 		"activityBar.activeBackground": "#bd93f910",
 		"activityBar.activeBorder": "#ff79c680",
 		"activityBar.background": "#343746",

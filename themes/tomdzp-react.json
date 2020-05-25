@@ -2,6 +2,9 @@
 	"name": "TomDzp - React",
 	"type": "dark",
 	"colors": {
+		"sideBarSectionHeader.foreground": "#555555",
+		"sideBar.border": "#1e2127",
+		"statusBar.border": "#1e2127",
 		"activityBar.background": "#282c34",
 		"activityBar.foreground": "#f8f8f2",
 		"activityBarBadge.background": "#61dafb",
