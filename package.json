@@ -37,9 +37,24 @@
                 "path": "./themes/tomdzp-react.json"
             },
             {
+                "label": "TomDzp - React Mirage",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tomdzp-react-mirage.json"
+            },
+            {
+                "label": "TomDzp - Aubergine Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tomdzp-aubergine-dark.json"
+            },
+            {
                 "label": "TomDzp - Atom One Light",
                 "uiTheme": "vs",
                 "path": "./themes/tomdzp-atom-one-light.json"
+            },
+            {
+                "label": "TomDzp - Hop Light",
+                "uiTheme": "vs",
+                "path": "./themes/tomdzp-hop-light.json"
             }
         ]
     }
